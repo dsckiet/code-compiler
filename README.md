@@ -1,49 +1,29 @@
-<p align="left">
-	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> Online Code Compiler - CSEDSE0S3 </h2>
-	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
-</p>
+<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
+<h2 align="left"> Online Code Compiler - CSEDSE0S3 </h2>
+<h4 align="left"> The online code compiler will help you to compile and run your various programming languages code instantly. The online IDE will show you the output for your particular input stream.<h4>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 
-## Functionalities
-- [ ]  < ADD FUNCTIONALITY >
-- [ ]  < ADD FUNCTIONALITY >
-
-<br>
-
-
-## Instructions to run
-
-* Pre-requisites:
-	-  < add pre-requisite >
-	-  < add pre-requisite >
-
-* Directions to setup/install
-```bash
-< insert code >
-```
-
-* Directions to execute
-
-```bash
-< insert code >
-```
+<h2>Functionalities</h2>
+<ul>
+	<li>Run and Debug/li>
+	<li>Side-By-Side Code and Output</li>
+</ul>
+<br/>
+<h2>Pre-requisites</h2>
+<ul>
+	<li>HTML, CSS & Bootstrap, JavaScript</li>
+	<li>Basic knowledge of HTTP requests</li>
+</ul>
+<br/>
+<h2>Contributors</h2>
+<ul>
+	<li>Principle Coordinator: PROF. SANJIV SHARMA</li>
+	<li>Project Coordinator: PROF. DEEPAK RATHORE</li>
+	<li>Mentor: RITWICK BHARGAV</li>
+</ul>
 
 <br>
 
-## Contributors
-
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
-
-
-
-<br>
-<br>
-
-<p align="center">
-	Made during 🌙 by DSC KIET
-</p>
+By DSC KIET in association with Department of Computer Science
