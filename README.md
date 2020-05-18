@@ -7,18 +7,24 @@
 <h2>Functionalities</h2>
 <ul>
 	<li>Side-By-Side Code and Output</li>
-	<li>Run and Debug/li>
+	<li>Run and Debug</li>
 	<li>Run program against custom input</li>
 	<li>Language Selection</li>
 </ul>
+
 <br/>
+
 <h2>Pre-requisites</h2>
+
 <ul>
 	<li>HTML, CSS & Bootstrap, JavaScript</li>
 	<li>Basic knowledge of HTTP requests</li>
 </ul>
+
 <br/>
+
 <h2>Contributors</h2>
+
 <ul>
 	<li>Principle Coordinator: PROF. SANJIV SHARMA</li>
 	<li>Project Coordinator: PROF. DEEPAK RATHORE</li>
